@@ -37,3 +37,6 @@
 
 
 *Most are included on the PCB gerber files
+
+Test circuit example found here:
+https://www.youtube.com/watch?v=D4u7eDeQFEw 
