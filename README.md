@@ -31,7 +31,9 @@
 - MAX98357 I2S Audio Amplifier (x2)
 - Bone Conduction Speakers
 - Arduino IDE or PlatformIO
-- Li-Po Battery & Charging Circuit
+- Li-Po Battery & Smart Charger
+- 28(for power) and 30-36(for signals) AWG wire
 - Additional LEDs, diodes, resistors and capacitors (0805 SMD), and other components*
+
 
 *Most are included on the PCB gerber files
