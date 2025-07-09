@@ -19,8 +19,8 @@
 
 - 🔬 3D Printer with filament
 - 💻 EasyEDA or KiCad for PCB edits
-- 🪛 Soldering tools for SMD and through-hole assembly
-- ♨️ Hot plate/hot air gun (or order PCB assembly service)
+- 🪛 Soldering tools for through-hole assembly
+- ♨️ Hot plate/hot air gun and solder paste (or order PCB assembly service)
 
 #### 🔩 Hardware
 
